@@ -76,7 +76,7 @@ A modern Doctor Appointment Android app built with **Java**, **Firebase Realtime
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/doctor-appointment-app.git
+   git clone https://github.com/shahadot786/doctor-appointment-app
 
 
 
