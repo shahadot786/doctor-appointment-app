@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">doctor-appointment-app</string>
+    <string name="get_started">Continue</string>
+    <string name="todo">TODO</string>
+    <string name="schedule_appointment_with_ease">Schedule Appointment with Ease</string>
+    <string name="hi_shahadot">Hi, Shahadot Hossain</string>
+    <string name="how_are_you_today">How are you today?</string>
+    <string name="searching">Searching...</string>
+</resources>
